@@ -1,5 +1,5 @@
 # Machine Learning from Scratch
-@ -0,0 +1,27 @@
+
 In this Project, an experimental evaluation of linear regression on the
 Athens houses dataset is done and on an artificial dataset with and without L2 regularization. 
 
